@@ -46,7 +46,7 @@
     "grpc-bchrpc-node": "^0.11.3",
     "mocha": "^8.1.3",
     "nyc": "^15.1.0",
-    "ts-node-dev": "^1.0.0-pre.44",
+    "ts-node-dev": "^1.1.7",
     "tslog": "^3.0.2"
   },
   "devDependencies": {
