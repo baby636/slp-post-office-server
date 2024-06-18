@@ -40,7 +40,7 @@
     "bitcore-payment-protocol": "^8.1.1",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
-    "electrum-cash": "^2.0.2",
+    "electrum-cash": "^3.0.1",
     "express": "^4.17.1",
     "express-rate-limit": "^5.2.3",
     "grpc-bchrpc-node": "^0.11.3",
