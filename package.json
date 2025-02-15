@@ -36,7 +36,7 @@
     "axios": "^0.20.0",
     "bchaddrjs-slp": "^0.2.11",
     "bignumber.js": "^9.0.0",
-    "bitcore-lib-cash": "^8.23.1",
+    "bitcore-lib-cash": "^10.0.28",
     "bitcore-payment-protocol": "^8.1.1",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
